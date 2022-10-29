@@ -9,8 +9,7 @@ while(n!=1):
     total+=1
     if(a==1):
         if(b=="rock" or b=="Rock"):
-            print("you loose :)")
-            print("new line")
+            print("you win :)")
             score+=1
             print("your current score is ",score)
         else:
