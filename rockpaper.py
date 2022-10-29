@@ -13,7 +13,7 @@ while(n!=1):
             score+=1
             print("your current score is ",score)
         else:
-            print("you lose :(")
+            print("you loose :(")
             print("your current score is ",score)
     elif(a==2):
         if(b=="paper" or b=="Paper"):
